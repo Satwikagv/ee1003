@@ -70,7 +70,7 @@ And
 \begin{align}
     \frac{1}{x-y}=2\\x-y=\frac{1}{2}
 \end{align}
-Matrix form of the eq\brak{0.24} and eq\brak{0.26} is:
+Matrix form of the eq\brak{24} and eq\brak{26} is:
 \begin{align}
     \myvec{1 & 1 \\ 1 & -1}\myvec{x\\y}=\myvec{5 \\ \frac{1}{2}}
 \end{align}
